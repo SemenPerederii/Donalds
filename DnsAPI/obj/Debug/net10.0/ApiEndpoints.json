@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "DnsAPI.Controllers.AuthController",
+    "Method": "CollectData",
+    "RelativePath": "api/Auth/collect",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "authData",
+        "Type": "DnsAPI.Models.AuthData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
